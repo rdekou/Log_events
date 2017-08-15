@@ -7,4 +7,4 @@ The repository contains a IPython Notebook ('log_events.ipynb') with sample code
 of occurence. 
 
 
-You can view the notebooks directly on github, or clone the repository, install dependencies listed in the notebook and play with code locally.
+You can view the notebook directly on github, or clone the repository, install dependencies listed in the notebook and play with code locally.
